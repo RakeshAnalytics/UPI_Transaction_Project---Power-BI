@@ -7,7 +7,7 @@ In this project I analyzed UPI transactions using Power BI, providing insights i
                             
 This project analyzes UPI transactions using Power BI, providing insights into transaction volume, success rate, purpose, merchant-wise transactions, and trends over time.
 
-                                                  📊 Includes:
+📊 Includes:
                                                   
 ✅ Dashboard Page – Interactive overview of key transaction metrics.
 
